@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top-card {
+    background-color: #894bca;
+    background-size: cover;
+    width: 100vw;
+    height: 200px;
+    padding: 20px;
+}
+
+.top-card-img {
+    width: 160px;
+    height: 180px;
+    padding: 5px;
+
+}
+
+.top-card-head {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    color: #ffffff;
+    padding: 16px;
+}
+
+.card2 {
+    background-color: #ffffff;
+    background-size: cover;
+    height: 100vh;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    margin: 15px;
+    padding: 12px;
+    font-family: "Roboto";
+}
+
+.card2-head {
+    color: #f780c3;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.img {
+    width: 45px;
+    height: 60px;
+    margin-top: 18px;
+}
+
+.card2-hightlight {
+    padding: 20px;
+}
+
+.inside-card2-head {
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.inside-card2-para {
+    font-size: 15px;
+    color: #7b8794;
+}
